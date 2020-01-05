@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/add.jsx"],"names":[],"mappings":"0FAAA,OAAe,qBACX,MAAO","file":"2.fb710f6b.chunk.js","sourcesContent":["export default () => {\r\n    return 'Add mode'\r\n}"],"sourceRoot":""}

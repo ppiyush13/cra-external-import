@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/edit.jsx"],"names":[],"mappings":"0FAAA,OAAe,qBACX,MAAO","file":"4.317a9e21.chunk.js","sourcesContent":["export default () => {\r\n    return 'Edit mode'\r\n}"],"sourceRoot":""}

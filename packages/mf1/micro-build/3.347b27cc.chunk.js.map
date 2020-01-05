@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/default.jsx"],"names":[],"mappings":"0FAAA,OAAe,qBACX,MAAO","file":"3.347b27cc.chunk.js","sourcesContent":["export default () => {\r\n    return 'default route';\r\n}"],"sourceRoot":""}
